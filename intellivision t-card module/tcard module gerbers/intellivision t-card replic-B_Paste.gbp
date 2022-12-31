@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*
-G04 #@! TF.CreationDate,2022-08-18T21:38:13-04:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*
+G04 #@! TF.CreationDate,2022-12-31T00:25:52-05:00*
 G04 #@! TF.ProjectId,intellivision t-card replic,696e7465-6c6c-4697-9669-73696f6e2074,rev?*
 G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-08-18 21:38:13*
+G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-12-31 00:25:52*
 %MOMM*%
 %LPD*%
 G01*
